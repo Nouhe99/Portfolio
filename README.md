@@ -20,8 +20,9 @@ It's meant to give you a quick overview of my skills, experience, and creative m
 > *(Future updates may include JavaScript, Bootstrap or interactive demos)*
 
 - 📧 Email: chebbi.nouhe@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nouhachebbi/)  
-- 💼 [Itch.io Portfolio](https://nouhachebbi.itch.io/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chebbinouha/)  
+- 💼 [Itch.io Portfolio](https://nowa99.itch.io/)
+
 
 ---
 
