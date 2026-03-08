@@ -1,6 +1,6 @@
 # 🎨 Nouha Chebbi – Portfolio
 
-Welcome to my personal portfolio website!  
+Welcome to my personal portfolio website !  
 I'm Nouha Chebbi, a Developer and a Game Designer passionate about interactive storytelling, immersive experiences and creative problem-solving.
 
 This site showcases some of my work in development, game design and multimedia projects.  
