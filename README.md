@@ -17,7 +17,6 @@ It's meant to give you a quick overview of my skills, experience and creative mi
 - Javascript
 - GitHub Pages  
 
-> *(Future updates may include JavaScript, Bootstrap or interactive demos)*
 
 - 📧 Email: chebbi.nouhe@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chebbinouha/)  
