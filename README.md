@@ -18,9 +18,9 @@ It's meant to give you a quick overview of my skills, experience and creative mi
 - GitHub Pages  
 
 
-- 📧 Email: chebbi.nouhe@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chebbinouha/)  
-- 💼 [Itch.io Portfolio](https://nowa99.itch.io/)
+ 📧 chebbi.nouhe@gmail.com  
+ 🔗 [LinkedIn](https://www.linkedin.com/in/chebbinouha/)  
+ 💼 [Itch.io ](https://nowa99.itch.io/)
 
 
 ---
